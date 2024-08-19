@@ -1,5 +1,4 @@
 # Smart-Assessment-Board
-Here is a sample `README.md` file for the quiz application:
 
 ---
 
