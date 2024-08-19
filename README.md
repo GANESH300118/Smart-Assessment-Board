@@ -75,5 +75,3 @@ This quiz model can be used in:
 - Implementing a timer for each question.
 - Expanding the quiz content to include other educational topics.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
